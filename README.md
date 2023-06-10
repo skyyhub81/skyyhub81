@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyyhub81)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hey there! 👋
 
 Im skyy, and i love making tutorials for the **community!**#
