@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Im skyy, and i love making tutorials for the **community!**#
+Im skyy, and i love making tutorials for the **community!**
 
 I have a few intrests, Mainly retro gaming & developing stuff for my website.
 
